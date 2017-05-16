@@ -8,7 +8,13 @@ Logo, fonte, cores etc. @usjtconecta em todos os perfis a serem desenvolvidos / 
 
 ### Fotos
 
-Upload no Flickr. https://www.flickr.com/photos/usjtconecta/
+#### Produção
+
+Na ausência de equipamento profissional, pensar em como aproveitar melhor seu smartphone.
+
+#### Compartilhamento
+
+Upload no Flickr. [https://www.flickr.com/photos/usjtconecta/](https://www.flickr.com/photos/usjtconecta/)
 
 Editar imagem: 1600 x 900px
 
