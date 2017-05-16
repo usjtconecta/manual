@@ -8,5 +8,5 @@ Descrição dos objetivos \(agregador + oficina de conteúdo\).
 
 ### Código aberto
 
-Um dos valores da Conecta. Conteúdo livre. Licença de publicação.
+Um dos valores da Conecta. Conteúdo livre. Licença de publicação. https://creativecommons.org/licenses/by-nc/4.0/
 
