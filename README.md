@@ -1,12 +1,8 @@
-# manual da Conecta
+# Manual da Conecta
 
-Orientações gerais e boas práticas de conteúdo
+Orientações gerais e boas práticas de conteúdo da Agência. Visite-a em [http://conecta.usjt.br](http://conecta.usjt.br).
 
-### Sobre a Conecta
+### Sobre este Manual
 
-Descrição dos objetivos \(agregador + oficina de conteúdo\).
-
-### Código aberto
-
-Um dos valores da Conecta. Conteúdo livre. Licença de publicação. https://creativecommons.org/licenses/by-nc/4.0/
+Um dos valores da Conecta: código aberto. Conteúdo livre. Licença de publicação. [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
