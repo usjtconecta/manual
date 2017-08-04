@@ -6,23 +6,5 @@ Formatos para site, redes sociais, entre outros materiais
 
 Logo, fonte, cores etc. @usjtconecta em todos os perfis a serem desenvolvidos / criados.
 
-### Fotos
-
-#### Produção
-
-Na ausência de equipamento profissional, pensar em como aproveitar melhor seu smartphone.
-
-#### Compartilhamento
-
-Upload no Flickr. [https://www.flickr.com/photos/usjtconecta/](https://www.flickr.com/photos/usjtconecta/)
-
-Editar imagem: 1600 x 900px
-
-Renomear arquivo conforme exemplo: 31122017\_personagem\_fotografo.jpg
-
-Título e legenda descritivos e crédito, mencionando a agência
-
-Exemplo: Ozires Silva na palestra de abertura da Semana de Gestão e Inovação 2017. Foto: Carla Faya/Agência Conecta
-
 
 
