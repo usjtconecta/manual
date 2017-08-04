@@ -4,7 +4,7 @@
 
 Integrar a comunidade ao redor da Universidade São Judas por meio de notícias relevantes: este é o objetivo da **Agência Conecta**, projeto laboratorial organizado pelo curso de Jornalismo.
 
-A missão da**Conecta**se apoia em três propósitos:
+A missão da **Conecta **se apoia em três propósitos:
 
 ### Reunir
 
@@ -16,7 +16,7 @@ Diante das telas a proposta é informar com credibilidade e clareza; nos bastido
 
 ### Abrir
 
-A agência nasce com uma filosofiaopen source, análoga aos princípios de alguns softwares como WordPress, usado pela **Conecta**. Seus conteúdos podem ser reutilizados por outros veículos desde que mencionados os créditos aos autores, seguindo a licença de uso aberta Creative Commons. Da mesma forma, seus materiais, processos de produção e normas de redação são discutidos colaborativamente em uma plataforma aberta - é ocaso deste manual.
+A agência nasce com uma filosofia _open source_, análoga aos princípios de alguns softwares como WordPress, usado pela  **Conecta**. Seus conteúdos podem ser reutilizados por outros veículos desde que mencionados os créditos aos autores, seguindo a licença de uso aberta Creative Commons. Da mesma forma, seus materiais, processos de produção e normas de redação são discutidos colaborativamente em uma plataforma aberta - é ocaso deste manual.
 
 # Quem faz a Conecta
 
