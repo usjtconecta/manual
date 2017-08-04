@@ -6,5 +6,7 @@ Formatos para site, redes sociais, entre outros materiais
 
 Logo, fonte, cores etc. @usjtconecta em todos os perfis a serem desenvolvidos / criados.
 
+### Grafia de nomes
 
+Essa lista vai ser grande.
 
