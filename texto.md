@@ -1,10 +1,10 @@
 # Práticas de texto
 
-Pode-se dizer que o texto jornalístico é muito fácil de se produzir, desde que não haja o impulso de complicá-lo.
+Pode-se dizer que o texto jornalístico é muito fácil de se produzir, desde que não haja o impulso de complicá-lo. Mantenha-se, portanto, simples.
 
 Tudo o que a **Agência Conecta** precisa são de boas histórias. Esta é uma forma assertiva de apontar os valores-notícia mais adequados: além da atualidade e clareza, espera-se informações sobre acontecimentos próximos, de interesse humano, capazes de provocar empatia.
 
-Essa história pode ser sintetizada por meio das tradicionais perguntas que compõem o lide jornalístico: quem, o quê, quando, como, quanto, onde, porquê. Mais importante do que estas, no entanto, é o E DAÍ. Uma boa resposta para esta última será suficiente para dar valor a história.
+Essa história pode ser sintetizada por meio das tradicionais perguntas que compõem o lide jornalístico: quem, o quê, quando, como, quanto, onde, porquê. Mais importante do que estas, no entanto, é o E DAÍ. Uma boa resposta para esta última será suficiente para dar valor a história.
 
 ### Conteúdo
 
@@ -14,7 +14,9 @@ Após redigir a notícia, releia o texto e verifique: ele faz sentido? A notíci
 
 ### Títulos
 
-Elemento obrigatório para identificação do texto, anunciar a informação principal do texto ou descrever com precisão um fato. Também tem a função de despertar interesse do leitor. Fórmula trivial, para não errar: sujeito + verbo de ação \(no presente\) + descrição que contemple palavras-chave \(de que forma um leitor procuraria pelo texto no Google?\). O uso do verbo é obrigatório. Não se usa artigo ou ponto final. 
+Elemento obrigatório para identificação do texto, anunciar a informação principal do texto ou descrever com precisão um fato. Também tem a função de despertar interesse do leitor. Fórmula trivial, para não errar: sujeito + verbo de ação \(no presente\) + descrição que contemple palavras-chave \(de que forma um leitor procuraria pelo texto no Google?\).
+
+O uso do verbo é obrigatório. Não se usa artigo ou ponto final.
 
 Tamanho adequado e desejável: até 65 caracteres \(é o que o Google exibe nos resultados de busca\). Mas não é preciso ficar neurótico se ficar longo demais. Sugestão: deixe o título como última tarefa no processo de edição.
 
