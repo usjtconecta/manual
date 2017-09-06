@@ -12,6 +12,14 @@ Qual o tamanho ideal para os textos da agência? Não há regra em relação a i
 
 Após redigir a notícia, releia o texto e verifique: ele faz sentido? A notícia está clara? O texto começa com a informação mais importante? O que está faltando? É preciso algum complemento? As informações estão suficientemente respaldadas? As fontes entrevistadas ou citadas dão suporte ao dado oferecido? Todos os nomes das pessoas, organizações, cargos ou posições mencionados estão corretos? Todas as citações são precisas e estão atribuídas corretamente? Eu entendi plenamente o que a fonte quis dizer? As informações de pesquisa estão completas? Todos os envolvidos foram identificados, contatados e tiveram oportunidade de falar? Há algum juízo de valor? Alguém vai ficar aborrecido ou zangado com o texto? Ou exageradamente elogiado? Essa reação estará bem?
 
+### Hierarquia da notícia
+
+o primeiro parágrafo deve fornecer a maior parte das respostas às seis perguntas básicas: o que, quem, quando, onde, como e por quê. A forma como apresentar as primeiras frases tem a ver com o questionamento mais importante: **e daí**.
+
+Para que o trabalho não se perca nas datas, priorizem eventos/histórias já realizadas. Por exemplo: ao invés de um texto "faculdade recebe palestrante na próxima semana", a ênfase deve ser "palestrante destaca importância de seu tema", contextualizando quando e onde isso foi feito.
+
+Sempre que se abre um texto com "aconteceu" ou "acontece", morre um pandinha. O verbo "Acontece" tem um significado específico: algo que ocorre de repente, imponderável. Quando precisar, use qualquer outra construção que explique algo como ser, haver, realizar-se, ocorrer, suceder, existir, verificar-se, dar-se, estar marcado para.
+
 ### Títulos
 
 Elemento obrigatório para identificação do texto, anunciar a informação principal do texto ou descrever com precisão um fato. Também tem a função de despertar interesse do leitor. Fórmula trivial, para não errar: sujeito + verbo de ação \(no presente\) + descrição que contemple palavras-chave \(de que forma um leitor procuraria pelo texto no Google?\).
