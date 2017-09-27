@@ -10,7 +10,7 @@ Evite ainda o uso de bancos de imagem gratuitos ou que ofereçam imagens royalty
 
 ### Smartphone
 
-Na ausência de equipamento profissional, pensar em como aproveitar melhor seu smartphone.
+Na ausência de equipamento profissional, pensar em como aproveitar melhor seu smartphone. Incluir dicas de uso.
 
 ### Compartilhamento
 
@@ -21,6 +21,8 @@ As imagens usadas nos textos são inseridas na biblioteca de mídia do WordPress
 Editar imagem: 1600 x 900px
 
 Renomear arquivo conforme exemplo: 31122017\_personagem\_fotografo.jpg
+
+Revisar este tópico.
 
 ### Legenda
 
