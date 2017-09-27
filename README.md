@@ -1,6 +1,6 @@
 # Manual da Conecta
 
-Orientações gerais e boas práticas de conteúdo da Agência. Visite-a em [http://conecta.usjt.br](http://conecta.usjt.br).
+Orientações gerais e boas práticas de conteúdo da Agência. Visite-a em [http://conecta.usjt.br](http://conecta.usjt.br). Apresenta regras básicas de padronização e agilidade para um trabalho que valoriza redação de texto e publicação na Web 
 
 ### Sobre este documento
 
