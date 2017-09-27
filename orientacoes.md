@@ -1,6 +1,6 @@
 # Organização da agência
 
-![](http://conecta.usjt.br/wp-content/uploads/2017/05/conecta_quem.jpg "conecta\_quem")
+![](/assets/conecta_quem.jpg)
 
 A manutenção da Agência, incluindo a atualização do site e dos materiais relacionados \(incluindo este manual\) são de responsabilidade da **equipe fixa**, liderada pelo professor orientador responsável. Qualquer pessoa ligada à Universidade São Judas pode ser tema da **Conecta**. Além da relação direta com a equipe fixa da agência, subordinada à coordenação do curso de Comunicação Social, ela se dá pela atuação dos alunos de Jornalismo a partir de duas frentes:
 
