@@ -36,7 +36,7 @@ Observar a grafia adotada para manter a consistência dos textos da Agência. Us
 
 **Idade** - Informação útil. Sempre que possível, use-a. "O aluno  John Smith, de 25 anos".
 
-**Links** - Desejável quando oferecer opções de leitura ou informações complementares relevantes ao leitor. Aceita-se tanto links para textos anteriores disponíveis na própria Agência quanto sugestões externas. **Evite o uso de "confira" ou "clique aqui"**. O verbo "conferir" significa "verificar igualdade, exatidão, correção" - como em "confira seu troco". Antes de apresentar notícias relacionadas, prefira "Leia também". Ao invés de "clique aqui", use palavras ou expressões que indiquem o que o usuário vai encontrar ao clicar.
+**Links** - Desejável quando oferecer opções de leitura ou informações complementares relevantes ao leitor. Aceita-se tanto links para textos anteriores disponíveis na própria Agência quanto sugestões externas. **Evite o uso de "confira" ou "clique aqui"**. O verbo "conferir" significa "verificar igualdade, exatidão, correção" - como em "confira seu troco". Antes de apresentar notícias relacionadas, prefira "Leia também". Ao invés de "clique aqui", use palavras ou expressões que indiquem o que o usuário vai encontrar ao clicar. **Jamais cole a URL de um link no corpo do texto**.
 
 **Moedas** - Utilizar sempre o cifrão correspondente \(R$ ou US$\) e não o nome da moeda por extenso \(R$ 3,2 milhões e não 3 milhões e 200 mil reais\). Os números redondos devem ser escritos por extenso \(US$ 7 milhões e não US$ 7.000.000\).
 
