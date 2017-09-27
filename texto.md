@@ -44,6 +44,8 @@ Apesar da **Conecta** publicar informações sobre eventos futuros, as história
 
 Sempre que se abre um texto com "aconteceu" ou "acontece", **morre um pandinha**. O verbo "Acontece" tem um significado específico: algo que ocorre de repente, imponderável. Quando precisar, use qualquer outra construção que explique algo como ser, haver, realizar-se, ocorrer, suceder, existir, verificar-se, dar-se, estar marcado para.
 
+Veja ainda a seção "Padrões" para detalhes específicos de redação, como convenções de grafia e outras dúvidas comuns - entre elas o uso de verbos declaratórios \(ou **"dicendi"**\).
+
 ### Títulos
 
 Elemento obrigatório para identificação do texto, anunciar a informação principal do texto ou descrever com precisão um fato. Também tem a função de despertar interesse do leitor. Fórmula trivial, para não errar: sujeito + verbo de ação \(no presente\) + descrição que contemple palavras-chave \(de que forma um leitor procuraria pelo texto no Google?\).
