@@ -2,7 +2,7 @@
 
 ![](http://conecta.usjt.br/wp-content/uploads/2017/05/conecta_quem.jpg "conecta\_quem")
 
-A manutenção da Agência, incluindo a atualização do site e dos materiais relacionados \(incluindo este manual\) são de responsabilidade da **equipe fixa**, liderada pelo professor orientador responsável. Qualquer pessoa conectada à Universidade São Judas pode ser tema da **Conecta**. Além da relação direta com a equipe fixa da agência, subordinada à coordenação do curso de Comunicação Social, ela se dá pela atuação dos alunos de Jornalismo a partir de duas frentes:
+A manutenção da Agência, incluindo a atualização do site e dos materiais relacionados \(incluindo este manual\) são de responsabilidade da **equipe fixa**, liderada pelo professor orientador responsável. Qualquer pessoa ligada à Universidade São Judas pode ser tema da **Conecta**. Além da relação direta com a equipe fixa da agência, subordinada à coordenação do curso de Comunicação Social, ela se dá pela atuação dos alunos de Jornalismo a partir de duas frentes:
 
 * **Grupos de trabalho**: formados a partir de disciplinas específicas \(em especial as relacionadas com jornalismo para a Web\) que utilizam a **Conecta **como atividade obrigatória. Em cada grupo, são atribuídas funções de edição, pauta e reportagem.
 * **Alunos colaboradores**: estudantes de Jornalismo da São Judas, caso queiram, podem propor pautas, produzir textos e publicá-los na **Conecta**, seguindo fluxo de trabalho similar ao dos grupos de trabalho.
