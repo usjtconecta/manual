@@ -15,7 +15,7 @@ A divisão de tarefas a seguir, apesar de obrigatória, não deve engessar o des
 
 * É o interlocutor entre o grupo de trabalho e os responsáveis pela organização / publicação de materiais da agência \(equipe fixa\).
 * Valida as pautas com o grupo, aprova com os líderes e combina prazos para entrega.
-* Recebe os textos e imagens do grupo de trabalho e faz o primeiro trabalho de revisão.
+* Recebe os textos e imagens do grupo de trabalho e faz o primeiro trabalho de revisão \(seguindo as convenções e padrões estabelecidas neste Manual\).
 
 **Produtor**
 

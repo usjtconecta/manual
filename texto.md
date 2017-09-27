@@ -69,7 +69,7 @@ Para romper a uniformidade dos blocos de texto, sugere-se o uso de intertítulos
 Outras formas de usar quebras de texto:
 
 * Sugestões de links relacionados \("leia também"\) entre os parágrafos
-* Fotos \(ou galerias de imagens\) relacionadas com a notícia
+* Fotos, vídeos ou galerias de imagens relacionadas com a notícia
 * Textos em forma de lista numerada \("cinco coisas que você precisa saber sobre listas de cinco coisas"\)
 
 
