@@ -30,6 +30,8 @@ Observar a grafia adotada para manter a consistência dos textos da Agência. Us
 
 **Acontece, aconteceu** - Nunca comece seu texto dessa forma. "Acontecer" significa "ocorrer repentinamente", isto é, de forma imprevisível. Além disso, procure começar seu texto com algo fundamentalmente relevante \(ver "Texto &gt; Hierarquia da notícia"\).
 
+**Créditos** - Além das fotos, toda e qualquer fonte usada para obtenção de informação exclusiva \(entrevistas em veículos de rádio e televisão, citação em artigos ou publicações\) devem ser mencionadas no texto. Informação importante dificilmente é de  domínio público. Não existe "fonte: Google".
+
 **Datas e horários** - Nunca use "hoje" ou "na última quarta-feira": prefira sempre a data exata, sem abreviaturas \(“3 de outubro” e não “3/10”\). O horário vai de 0 a 24 horas. Para horas cheias, grafar “17 horas” e para horários quebrados grafar “17h30”.
 
 **Idade** - Informação útil. Sempre que possível, use-a. "O aluno  John Smith, de 25 anos".

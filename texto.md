@@ -62,6 +62,16 @@ Segundo o **Manual do Estadão**:
 * Mantenha o artigo, porém, mesmo nos títulos, com superlativos ou palavras de sentido absoluto, como em “Ministro diz que Brasil é o país mais protecionista” ou “Cai o último invicto”.
 * Artigos indefinidos devem ser evitados nos títulos, quando desnecessário ou quando não tiver função na frase: Indústria rejeita \(um\) aumento generalizado de impostos / Atleta recebe \(um\) troféu na Itália.
 
+### Subtítulos \(linha fina\)
+
+Serve como complemento ao título, apresentando informação importante e agilizando a compreensão do tema. Elemento obrigatório, aparece em destaque na home da agência e na parte superior da página, antes do autor da matéria e do texto.
+
+![](/assets/exemplo_home.png)
+
+A combinação "título-linha fina" deve fornecer ao leitor as principais informações sobre o que virá a seguir, por isso deve ser um texto interessante e informativo. O tamanho mais adequado, assim como nos títulos, remete ao que o Google exibe nos resultados de busca: 160 caracteres.
+
+![](/assets/exemplo_google.png)
+
 ### Quebras e intertítulos
 
 Por mais que haja interese do leitor em histórias com a ênfase desejada pela agência, a uniformidade do texto \(quer dizer, um "estilo blocão"\) é desestimulante. Para reforçar, uma constatação do especialista em usabilidade Jakob Nielsen que sobrevive desde os primórdios do Jornalismo na Web, nos anos 1990: os usuários raramente lêem palavra por palavra, preferem escanear a página e identificar quebras.
