@@ -8,4 +8,5 @@
 * [Texto](texto.md)
 * [Fotos](fotos.md)
 * [Padrões](padroes.md)
+* [Guia rápido](guia-rapido.md)
 
