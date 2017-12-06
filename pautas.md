@@ -12,7 +12,11 @@ Pauta é diferente de tema. Por exemplo: em **"nossa pauta é sobre TCCs bacanas
 
 Como **todos os textos devem ter ao menos uma declaração \(entrevista\)**, as pautas deverão indicar, além da proposta, os contatos de potenciais fontes. É por meio desta ação que pretende-se construir ainda uma agenda de contatos compartilhada com todos os pauteiros/editores. Mais do que isso: a escolha de uma fonte relevante e disponível é indicativo de uma pauta viável. Considere que esta escolha poderá render mais respostas sobre a pauta sugerida, dando força ao texto.
 
-O fluxo de pautas da agência é compartilhado entre equipe fixa e grupos de trabalho por meio de uma planilha específica. É a certeza de que ninguém está escrevendo / apurando a mesma história. Antes de qualquer grupo de trabalho ou colaborador começar a trabalhar em um texto, é importante que a história seja previamente acordada com a equipe fixa.
+O fluxo de pautas da agência é compartilhado entre equipe fixa e grupos de trabalho por meio de uma planilha específica. É a certeza de que ninguém está escrevendo / apurando a mesma história. Antes de qualquer grupo de trabalho ou colaborador começar a trabalhar em um texto, é importante que a história seja previamente acordada com a equipe fixa. 
+
+É importante que a pauta seja **clara**, **específica** e **indique suas fontes**. Há risco, caso a proposta fique vaga, da mesma história ser contada de formas absolutamente diferentes - e nenhum responsável pela edição perceber.
+
+![](/assets/erro_pauta.jpg)
 
 Tanto a escolha das pautas quanto o prazo para envio são definidos por cada grupo de trabalho. As equipes organizam-se entre si e repassam as ideias para o editor, que vai retransmitir as sugestões para a equipe fixa - na sequência, as ideias são debatidas internamente, devolvendo-as com alguma sinalização:
 
